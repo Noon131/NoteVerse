@@ -52,7 +52,7 @@ A browser-based, themed notes app built with plain HTML, CSS and JavaScript. Wri
 1. Clone this repository:
 
 ```
-git clone https://github.com/<your-username>/noteverse.git
+git clone https://github.com/<Noon131>/noteverse.git
 cd noteverse
 ```
 
