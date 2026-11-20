@@ -147,8 +147,6 @@ noteverse/
 
 ## 👥 Authors
 
-This project was created for fun by:
-
 - **Mubas Sera Noon**
 
 ## 📄 License
