@@ -1,0 +1,15 @@
+{
+  "name": "NoteVerse",
+  "short_name": "NoteVerse",
+  "description": "A themed notes app with checklists, sticky board, mood calendar, streaks and mini-games.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#2563eb",
+  "theme_color": "#2563eb",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
