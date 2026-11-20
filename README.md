@@ -70,7 +70,7 @@ Then visit `http://localhost:8000`.
 
 1. Go to **Settings → Pages**.
 2. Choose **Deploy from a branch** → `main` → `/ (root)` → **Save**.
-3. Visit `https://<your-username>.github.io/noteverse/` after a minute.
+3. Visit `https://<Noon131>.github.io/noteverse/` after a minute.
 
 ## 💻 How to Use
 
