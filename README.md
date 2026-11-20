@@ -1,4 +1,4 @@
-# NoteVerse
+# NoteVerse📝
 
 🎉 A just-for-fun personal project · Built with HTML, CSS & JavaScript · Zero backend
 
